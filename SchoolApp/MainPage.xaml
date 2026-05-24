@@ -13,6 +13,17 @@
                FontSize="16"
                HorizontalOptions="Center" />
 
+        <Entry Text="{Binding Name}" />
+
+        <Label Text="{Binding Name}"
+               FontSize="32"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" />
+
+        <Label Text="{Binding City}"
+               FontSize="14"
+               HorizontalOptions="Center" />
+
         <Label x:Name="StatusLabel"
                Text="Tap the button to confirm everything works."
                FontSize="14"
