@@ -2,6 +2,6 @@
 
 public class Person
 {
-    public string Name { get; set; } = "Nurbol";
-    public string City { get; set; } = "Atyrau";
+    public string Name { get; set; } = "Aida";
+    public string City { get; set; } = "Almaty";
 }

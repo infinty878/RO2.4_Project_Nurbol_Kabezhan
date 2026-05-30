@@ -33,7 +33,7 @@
                 Clicked="OnTapClicked"
                 HorizontalOptions="Center" />
 
-        <Button Text="Открыть список студентов"
+        <Button Text="Open students list"
                 Clicked="OnOpenStudentsClicked"
                 HorizontalOptions="Center" />
     </VerticalStackLayout>
