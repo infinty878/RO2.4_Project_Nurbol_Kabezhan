@@ -24,6 +24,10 @@
                FontSize="14"
                HorizontalOptions="Center" />
 
+        <Button Text="Shout the name"
+                Clicked="OnShoutClicked"
+                HorizontalOptions="Center" />
+
         <Label x:Name="StatusLabel"
                Text="Tap the button to confirm everything works."
                FontSize="14"
